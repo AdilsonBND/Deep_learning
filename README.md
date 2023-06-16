@@ -1,7 +1,7 @@
 # Estudo realizado sobre o gradiente descendente
 <br>
 <br>
-<h1> Caso 1: Gradiente descendente uma variável:</h1><br><br>
+<h3> Caso 1: Gradiente descendente uma variável:</h3><br><br>
 Nesse estudo aplicamos a fórmula do gradiente descendente para alcançarmos os melhores pesos w0 e w1 para obtermos o menor custo possível.<br>
 <br>
 Realizamos os seguintes passos:
@@ -18,7 +18,7 @@ Realizamos os seguintes passos:
 8) Realizamos predição com os pesos obtidos no treinamento
 </pre>
 <br><br>
-<h1>Caso 2: Gradiente descendente multiplas variáveis</h1>
+<h3>Caso 2: Gradiente descendente multiplas variáveis</h3>
 <br>
 <br>
 Neste estudo, buscaremos encontrar os melhores pesos para definir preço de imóvel com base no tamanho e quantidade de banheiros que possui: <br><br>
