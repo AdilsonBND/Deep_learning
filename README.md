@@ -30,7 +30,7 @@ para adequar a fórmula de variáveis multiplas
 4) Obteve-se os pesos aprimorados para predição </pre>
 <br><br>
 
-<h3> Caso 3: Modelo de regressão logística:
+<h3> Caso 3: Modelo de regressão logística:</h3>
 <br>
 Neste estudo realizamos a regressão logística para classificação de admissão ou não admissão com base em duas notas:
 <br>
