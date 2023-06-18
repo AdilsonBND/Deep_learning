@@ -1,4 +1,4 @@
-# Estudo realizado sobre o gradiente descendente
+# Estudos Realizados em Deep Learning
 <br>
 <br>
 <h3> Caso 1: Gradiente descendente uma variável:</h3><br><br>
