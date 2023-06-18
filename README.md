@@ -40,5 +40,5 @@ Neste estudo realizamos a regressão logística para classificação de admissã
 2) Criamos função sigmoid para que a regressão possa realizar a classificação, fórmula: 1 / 1 + euler ^ ( - (multiplicação da transposta de w por X = X@ w.T)).
 3) Criamos função binary cross entropy para cálculo de custo: 1 / 'm' amostras * somatório (-y * log(hipótese) - (1 - y) * log(1 - hipótese)), sendo a hipótese: 1 / 1 + euler ^ (- X @ w.T) 
 4) Criamos função para aplicar fórmula do gradiente pela quantidade de vezes definidas em 'epoch', sendo a fórmula: W(j) = W(j) - alpha * 1/'m'amostras * somatório (hipótese - y). X(j)(i)
-5) Realiamos algumas predições com base em novas notas aplicadas ao modelo
+5) Realizamos algumas predições com base em novas notas aplicadas ao modelo
 </pre>
