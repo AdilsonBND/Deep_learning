@@ -27,7 +27,7 @@ Neste estudo, buscaremos encontrar os melhores pesos para definir preço de imó
 2) Preparação dos dados separando os parâmetros do alvo(target) e preenchimento do peso w0 com 1 <br>
 para adequar a fórmula de variáveis multiplas
 3) Treinamento dos dados com a fórmula: Wj = Wj - (alpha / len(X)) * [W(transposta)*X - Y(i)] * Xj(i)
-4) Obteve-se os pesos aprimorados para predição 
+4) Obteve-se os pesos aprimorados para predição </pre>
 <br><br>
 
 <h3> Caso 3: Modelo de regressão logística:
@@ -41,3 +41,4 @@ Neste estudo realizamos a regressão logística para classificação de admissã
 3) Criamos função binary cross entropy para cálculo de custo: 1 / 'm' amostras * somatório (-y * log(hipótese) - (1 - y) * log(1 - hipótese)), sendo a hipótese: 1 / 1 + euler ^ (- X @ w.T) 
 4) Criamos função para aplicar fórmula do gradiente pela quantidade de vezes definidas em 'epoch', sendo a fórmula: W(j) = W(j) - alpha * 1/'m'amostras * somatório (hipótese - y). X(j)(i)
 5) Realiamos algumas predições com base em novas notas aplicadas ao modelo
+</pre>
